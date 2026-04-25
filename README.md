@@ -1,11 +1,5 @@
 # Dreaserous Contact Page
 
-## How to Run
-1. Backend:  
-   cd backend
-   npm install
-   npm start
-   Runs at: http://localhost:3000
 
 2. Frontend:
    cd frontend
