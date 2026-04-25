@@ -1,12 +1,5 @@
 # Dreaserous Contact Page
 
-
-2. Frontend:
-   cd frontend
-   npm install
-   ng serve --proxy-config proxy.conf.json
-   Runs at: http://localhost:4200
-
 ## Features
 
 Contact form with validation and database storage (SQLite)
